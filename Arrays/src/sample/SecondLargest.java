@@ -32,7 +32,7 @@ public class SecondLargest
 			System.out.print(arr[i] + "\t");
 		System.out.println();
 		
-		System.out.println("Second Largest Element is  :" + arr[1]);
+		System.out.println("Second Largest Element is =  :" + arr[1]);
 		
 		sc.close();
 	}
